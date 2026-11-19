@@ -1,0 +1,47 @@
+body {
+    background-color: #f4f7f5;
+    color: #24332f;
+    font-family: "DM Sans", sans-serif;
+}
+
+.container {
+    max-width: 1080px;
+    background-color: #fff;
+    border-color: #dce5e0 !important;
+}
+
+h1,
+h2,
+h3 {
+    color: #153d35;
+    font-family: "DM Serif Display", serif;
+}
+
+.eyebrow {
+    color: #57746b;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.intro {
+    max-width: 760px;
+    padding: 2rem 0 1rem;
+}
+
+.intro .lead {
+    max-width: 650px;
+}
+
+.section-heading {
+    margin-bottom: 1rem;
+}
+
+.focus-item {
+    border-top: 3px solid #b4c9bf;
+    padding: 1rem 0;
+}
+
+.focus-item p {
+    color: #52625d;
+}
